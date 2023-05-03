@@ -8,7 +8,7 @@ Supporting publication for the web app: https://journals.asm.org/doi/10.1128/JCM
 Download the installer
 ```
  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
- bash Miniconda3-latest-Linux-x86_64.s
+ bash Miniconda3-latest-Linux-x86_64.sh
 ```
 Run the installer and follow the prompts.
 Restart the session for the changes to take effect.
